@@ -1,3 +1,4 @@
+mermaid '''
 flowchart TD
     A["Goal: Καθαρισμός Λεωφορείου από Ρομπότ Σκούπα<br/>⏱️ Target: 5–10 mins<br/>📊 Success Rate: 90%"] 
         --> B["1. Προετοιμασία Ρομπότ<br/>⏱️ 30–45s<br/>❌ Error Rate: 10%"]
@@ -47,4 +48,5 @@ flowchart TD
     class B3,D2 warning
     class B1,E3 success
     class F1,C2 info
+    '''
 
