@@ -1,3 +1,5 @@
+mermaid
+
 flowchart TD
 
     A["Goal: Order from Café<br/>Target: 3–5 mins<br/>Success Rate: 92%"]
