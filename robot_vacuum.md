@@ -43,7 +43,7 @@ flowchart TD
    %% classDef critical fill:#ffcccc,stroke:#ff0000,stroke-width:2px
    %% classDef warning fill:#fff3cd,stroke:#ff8800,stroke-width:2px
   %%  classDef success fill:#d4edda,stroke:#28a745,stroke-width:2px
-    classDef info fill:#cce7ff,stroke:#007bff,stroke-width:2px
+   %% classDef info fill:#cce7ff,stroke:#007bff,stroke-width:2px
 
     '''
 
